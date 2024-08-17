@@ -14,4 +14,4 @@
 - Criar target group pras :8080 das 2 EC2s. Depois, criar um ALB. Liberar geral no SG do ALB.
 - Testar.
 - Simular queda de um alvo no target group.
-- Derrubar tudo, na ordem reversa da apresentação: ALB, target group, RDS, EC2, VPC.
+- Clicar em "Reset" no painel do AWS Academy.
