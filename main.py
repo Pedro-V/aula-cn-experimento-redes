@@ -8,7 +8,7 @@ conn = psycopg.connect(
     dbname="postgres",
     user="postgres",
     password="aulacn2024",
-    host=input("Informe o DNS do banco correspondente a esta instancia: ")
+    host=input("Informe o DNS do banco correspondente a esta instancia: "),
     row_factory=dict_row
 )
 
