@@ -11,4 +11,4 @@
 5. Criar target group pras :8080 das 2 EC2s. Depois, criar um ALB. Liberar geral no SG do ALB.
 6. Testar.
 7. Simular queda de um alvo no target group.
-8. Derrubar tudo.
+8. Derrubar tudo, na ordem reversa da apresentação: ALB, target group, RDS, EC2, VPC.
